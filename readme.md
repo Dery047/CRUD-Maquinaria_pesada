@@ -19,7 +19,8 @@ Faltan cosas importantes, como la integración del frontend con React, no agrega
 
 ## Próximos pasos
 
-- Desarrollar frontend con React.
+-Estaré desarrollando una vista de front end con una vista simple pero amigable y que sea usable dentro de un entorno real de producción
+- Agregar autenticación si es necesario, usando tokens JWT
 
 
 ---
@@ -59,9 +60,9 @@ No authentication added for now since it’s just for local use by a client. Cou
 
 ## Next steps
 
-- Build frontend with React.  
+- i'll be adding a basic but simple frontend view so it can be used in a real production environment.
 - (Optional) Add Django admin authentication if needed.  
-- Improve validations and testing.
+- 
 
 ---
 
