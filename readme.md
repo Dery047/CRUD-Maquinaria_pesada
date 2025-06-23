@@ -5,6 +5,9 @@ Proyecto API REST para gestionar vehículos, construido con Django y Django REST
  **En desarrollo**  
 Actualmente la API está funcional para CRUD de vehículos, pero el proyecto está en proceso.  
 Faltan cosas importantes, como la integración del frontend con React, no agregaré por el momento autenticación porque es solo para uso local de un cliente, podría incluirse autenticación con admin de Django.
+El idioma principal es español, ya que el cliente es local cuya lengua principal es el idioma español, pero una versión en inglés del README está disponible después de la sección en español.
+The primary language is Spanish, as the client is local and their main language is Spanish. However, an English version of the README is available after the Spanish section in this file.
+
 
 ---
 
