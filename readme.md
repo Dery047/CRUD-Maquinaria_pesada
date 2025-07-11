@@ -23,7 +23,7 @@ The primary language is Spanish, as the client is local and their main language 
 ## Próximos pasos
 
 -Estaré desarrollando una vista de front end con una vista simple pero amigable y que sea usable dentro de un entorno real de producción
-- Agregar autenticación si es necesario, usando tokens JWT
+- Agregar autenticación si es necesario, usando tokens JWT.
 
 
 ---
